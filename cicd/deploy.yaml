@@ -17,7 +17,7 @@ spec:
     spec:
       containers:
       - name: python-metric-test
-        image:  localhost/metric-python-test:alpha
+        image:  localhost/metric-python-test:alpha0.2
         imagePullPolicy: Never
         resources:
           requests:
